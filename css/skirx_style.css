@@ -195,6 +195,9 @@ h1.logo a span {
     height: 456px;
     background-color: aqua;
 }
+.rolling img {
+    width: 100%;
+}
 .feature_item {
     width: 304px;
     height: 304px;
@@ -319,7 +322,7 @@ h1.logo a span {
     width: 25%;
     /* flex: 1px; */
     text-align: center;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     padding-bottom: 15px;
 }
 .pick_img {
@@ -350,9 +353,12 @@ h1.logo a span {
 .brand_focus {
     margin-top: 50px;
 }
-.product_box {
+/* .product_box {
     display: flex;
     justify-content: space-between;
+} */
+.product_box img {
+    width: 100px;
 }
 
 /* best_contents */
