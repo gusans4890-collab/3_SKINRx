@@ -358,7 +358,8 @@ h1.logo a span {
     justify-content: space-between;
 } */
 .product_box img {
-    width: 100px;
+    width: 100%;
+    display: block;
 }
 
 /* best_contents */

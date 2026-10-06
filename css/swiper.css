@@ -1,0 +1,16 @@
+.rolling .swiper-button-next,
+.rolling .swiper-button-prev {
+    color: rgb(240, 104, 104);
+}
+
+.product_box .swiper-button-next,
+.product_box .rolling .swiper-button-prev {
+    color: rgb(83, 226, 70);
+}
+
+.swiper-pagination-bullet-active {
+    background-color: rgb(235, 103, 42);
+}
+.product_box .swiper-pagination-bullet-active {
+    background-color: rgb(100, 42, 235);
+}
